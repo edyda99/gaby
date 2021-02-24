@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PagedListExample-kotlin</string>
+    <string name="break_timer_title" />
+</resources>
